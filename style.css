@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ .header {
+   padding-top: 25px;
+}
+
+.top-header ul {
+    color: #fff;
+    border-bottom: #d5d5d5;
+    background-color: #f1f1f1;
+}
+.top-header ul a{
+    color: #999999;
+}
+::placeholder{
+    background-color: #c5c5c5;
+    color: #ffffff;
+    border-radius:5px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #c5c5c5;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.input-group-text {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ff4646;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #f3f3f3;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+.header{}
+.header{}
+.navbar-collapse {
+    -ms-flex-preferred-size: 100%;
+    flex-basis: 100%;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    
+    -ms-flex-align: center;
+}
+.main-header ul {
+    border-right: #ffffff;
+}
+.main-header ul li {
+    border-right: #ffffff;
+}
+.main-header ul li a{
+    border-right:2px solid #fff;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #ffffff;
+  }
+
+.banner-section{padding-top: 20px;
+margin-top: 20px;}
+.banner-section img{}
+.banner-section h2{
+    color: #8a8a8a;
+}
+.banner-section p {
+    font-size: 12px;
+    font-weight: 100;
+}}
+.banner-section {}
+
+.feater-section{}
+.feater-section h3{
+    color:#ff4646 ;
+    border-bottom: 1px #dfdfdf ;
+    font-size: 16px;
+}
+.feater-section img{
+    padding-top: 15px;
+}
+.feater-section p{
+    font-size: 13px;
+    color:#8a8791;
+}
+
+.contact-section{}
+.contact-section{}
+.contact-section span{
+    color: #ff4646;
+    font-size: 13px;
+}
+.contact-section{}
+
+.footer{
+    background-color:#838383 ;
+    color: #fff;
+    padding-top: 10px;
+}
